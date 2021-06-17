@@ -4,15 +4,21 @@ Designed and build an application to provide complete information and navigation
 \
 Screenshots:
 \
+\
 ![Screenshot 1](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture1.jpg)
 \
-(/images/picture2.jpg)
 \
-(/images/picture3.jpg)
+![Screenshot 2](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture2.jpg)
 \
-(/images/picture4.jpg)
 \
-(/images/picture5.jpg)
+![Screenshot 3](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture3.jpg)
 \
-(/images/picture6.jpg)
+\
+![Screenshot 4](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture4.jpg)
+\
+\
+![Screenshot 5](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture5.jpg)
+\
+\
+![Screenshot 6](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture6.jpg)
 
