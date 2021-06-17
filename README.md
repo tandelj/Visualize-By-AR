@@ -4,15 +4,15 @@ Designed and build an application to provide complete information and navigation
 \
 Screenshots:
 \
-[/images/picture1.jpg]
+(/images/picture1.jpg)
 \
-[images/picture2.jpg]
+(/images/picture2.jpg)
 \
-[images/picture3.jpg]
+(/images/picture3.jpg)
 \
-[images/picture4.jpg]
+(/images/picture4.jpg)
 \
-[images/picture5.jpg]
+(/images/picture5.jpg)
 \
-[images/picture6.jpg]
+(/images/picture6.jpg)
 
