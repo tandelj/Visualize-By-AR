@@ -20,7 +20,7 @@ Screenshots:
 ![Screenshot 5](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture5.jpg)
 \
 \
-![Screenshot 6](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture6ipg.jpg)
+![Screenshot 6](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture6jpg.jpg)
 \
-\
+
 
