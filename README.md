@@ -4,7 +4,7 @@ Designed and build an application to provide complete information and navigation
 \
 Screenshots:
 \
-![Screenshot 1](/images/logo.png)
+![Screenshot 1](/images/picture1.jpg)
 \
 (/images/picture2.jpg)
 \
