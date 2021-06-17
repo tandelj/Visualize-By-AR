@@ -4,7 +4,7 @@ Designed and build an application to provide complete information and navigation
 \
 Screenshots:
 \
-![Screenshot 1](images/logo.png)
+![Screenshot 1](https://github.com/tandelj/Visualize-By-AR/blob/main/images/Picture1.jpg)
 \
 (/images/picture2.jpg)
 \
